@@ -1,0 +1,1 @@
+import{f as n}from"./chunk-3OT2FXWT.js";import{a as o}from"./chunk-FEZ5MVNX.js";import{o as e}from"./chunk-UJ3EIAI7.js";import{Hb as t,Y as r}from"./chunk-GLRMWIOZ.js";var l=()=>r(e).selectSignal(n)()?!0:(r(o).warning("Open a company first (F3 Select Company)."),r(t).createUrlTree(["/company/select"]));export{l as a};

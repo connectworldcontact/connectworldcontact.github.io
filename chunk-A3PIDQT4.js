@@ -1,0 +1,1 @@
+import{c as r}from"./chunk-GLRMWIOZ.js";function a(t,i,o,e){return r(this,null,function*(){t.dirty&&!(yield i.confirm("Quit?","Discard the changes on this screen."))||(yield o.navigateByUrl(e))})}export{a};
